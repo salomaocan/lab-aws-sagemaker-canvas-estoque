@@ -58,4 +58,4 @@ Data is extremely sparse (single data point), making trend analysis difficult. F
 Maintain conservative stock levels and manually review next orders until more history is gathered.
 
 
-## A experiência foi ótima, muito gratificante, agradeço à DIO a oportunidade concedida, muito obrigado!
+## A experiência foi ótima, muito gratificante, agradeço à DIO pela oportunidade concedida, muito obrigado!
